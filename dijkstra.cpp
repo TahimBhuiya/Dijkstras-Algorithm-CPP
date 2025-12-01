@@ -11,7 +11,7 @@ typedef pair<int, int> pii;
 
 // Dijkstra's algorithm function
 void dijkstra(int src, const vector<vector<pii>>& graph) {
-    
+    int n = graph.size();
       
     
 
