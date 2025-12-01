@@ -13,7 +13,7 @@ typedef pair<int, int> pii;
 void dijkstra(int src, const vector<vector<pii>>& graph) {
     int n = graph.size();
     vector<int> dist(n, INT_MAX);  // Distance from src to each node
-    
+    dist[src] = 0;
 
 
 }
