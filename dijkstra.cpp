@@ -20,7 +20,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
     pq.push({0, src});  // {distance, vertex}
 
     while (!pq.empty()) {
-        
+        int u = pq.top().second;  
         
 
     }
