@@ -17,6 +17,6 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
 
     // Min-heap priority queue: smallest distance on top
     priority_queue<pii, vector<pii>, greater<pii>> pq;
-      
+    pq.push({0, src});  
 
     
