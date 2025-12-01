@@ -19,4 +19,8 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
     priority_queue<pii, vector<pii>, greater<pii>> pq;
     pq.push({0, src});  // {distance, vertex}
 
-    
+    while (!pq.empty()) {
+        
+        
+
+    }
