@@ -15,5 +15,8 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
     vector<int> dist(n, INT_MAX);  // Distance from src to each node
     dist[src] = 0;
 
+    // Min-heap priority queue: smallest distance on top
+    
+      
 
-}
+    
