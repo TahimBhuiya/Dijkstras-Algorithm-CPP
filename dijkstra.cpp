@@ -7,6 +7,6 @@ using namespace std;
 
 
 // Pair: {distance, vertex}
-
+typedef pair<int, int> pii;
 
 
