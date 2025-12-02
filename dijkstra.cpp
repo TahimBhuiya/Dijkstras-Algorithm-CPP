@@ -27,5 +27,5 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
         // Skip if we have already found a better path
         if (d > dist[u]) continue;
 
-        
+        // Explore all neighbors
         }
