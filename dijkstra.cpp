@@ -24,7 +24,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
         int d = pq.top().first;   // Current distance
         pq.pop();
 
-        
+        // Skip if we have already found a better path
         
 
         
