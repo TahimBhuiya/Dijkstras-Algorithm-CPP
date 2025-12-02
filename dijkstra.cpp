@@ -21,6 +21,11 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
 
     while (!pq.empty()) {
         int u = pq.top().second;  // Current node
-        int d = pq.top().first;
+        int d = pq.top().first;   // Current distance
+        
 
-    }
+        
+        
+
+        
+        }
