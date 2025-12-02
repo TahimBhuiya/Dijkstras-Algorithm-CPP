@@ -28,4 +28,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
         if (d > dist[u]) continue;
 
         // Explore all neighbors
-        }
+        for (auto edge : graph[u]) {
+              
+
+        }}
