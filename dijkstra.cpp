@@ -34,7 +34,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
 
             if (dist[u] + weight < dist[v]) {
                 dist[v] = dist[u] + weight;
-                pq.push({dist[v], v});  
+                pq.push({dist[v], v});  // Update priority queue
             }
         }
     }
