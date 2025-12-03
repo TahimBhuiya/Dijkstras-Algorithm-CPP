@@ -30,7 +30,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
         // Explore all neighbors
         for (auto edge : graph[u]) {
             int v = edge.first;   // Neighbor node
-            int weight = edge.second; 
+            int weight = edge.second; // Edge weight
 
             
         }
