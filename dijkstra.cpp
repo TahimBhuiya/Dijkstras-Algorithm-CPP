@@ -33,7 +33,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
             int weight = edge.second; // Edge weight
 
             if (dist[u] + weight < dist[v]) {
-                
+                dist[v] = dist[u] + weight;
                   
             }
         }
