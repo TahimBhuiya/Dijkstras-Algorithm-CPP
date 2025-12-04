@@ -50,7 +50,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
 }
 
 int main() {
-    
+    // Example graph: 5 nodes (0 to 4)
     
 
 }
