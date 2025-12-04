@@ -42,7 +42,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
     // Print shortest distances
     cout << "Shortest distances from node " << src << ":\n";
     for (int i = 0; i < n; i++) {
-        
+        if (dist[i] == INT_MAX)
             
         
             
