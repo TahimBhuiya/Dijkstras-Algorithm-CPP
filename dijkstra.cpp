@@ -44,7 +44,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
     for (int i = 0; i < n; i++) {
         if (dist[i] == INT_MAX)
             cout << i << ": INF\n";
-        
+        else
             
     }
 }
