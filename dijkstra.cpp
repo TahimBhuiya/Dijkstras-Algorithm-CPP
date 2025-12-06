@@ -55,7 +55,7 @@ int main() {
     vector<vector<pii>> graph(5);
 
     graph[0].push_back({1, 10});
-    
+    graph[0].push_back({3, 5});
     
     
     
