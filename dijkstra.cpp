@@ -54,7 +54,7 @@ int main() {
     // Each pair: {neighbor, weight}
     vector<vector<pii>> graph(5);
 
-    
+    graph[0].push_back({1, 10});
     
     
     
