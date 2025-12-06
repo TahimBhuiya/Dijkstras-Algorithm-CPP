@@ -67,5 +67,5 @@ int main() {
 
     dijkstra(0, graph);  // Compute shortest paths from node 0
 
-    
+    return 0;
 }
