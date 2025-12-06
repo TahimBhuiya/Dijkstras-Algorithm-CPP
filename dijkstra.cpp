@@ -4,7 +4,6 @@
 #include <climits>  // For INT_MAX
 using namespace std;
 
-
 // Pair: {distance, vertex}
 typedef pair<int, int> pii;
 
@@ -51,6 +50,7 @@ void dijkstra(int src, const vector<vector<pii>>& graph) {
 int main() {
     // Example graph: 5 nodes (0 to 4)
     // Each pair: {neighbor, weight}
+    
     vector<vector<pii>> graph(5);
 
     graph[0].push_back({1, 10});
