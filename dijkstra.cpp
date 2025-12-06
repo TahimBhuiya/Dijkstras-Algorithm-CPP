@@ -65,7 +65,7 @@ int main() {
     graph[4].push_back({0, 7});
     graph[4].push_back({2, 6});
 
-      
+    dijkstra(0, graph);  
 
     
 }
