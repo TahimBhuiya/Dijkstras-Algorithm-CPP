@@ -61,5 +61,11 @@ int main() {
     graph[2].push_back({4, 4});
     graph[3].push_back({1, 3});
     graph[3].push_back({2, 9});
+    graph[3].push_back({4, 2});
+    
+    
 
+      
+
+    
 }
