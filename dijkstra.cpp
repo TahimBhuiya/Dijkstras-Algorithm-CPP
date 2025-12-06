@@ -56,7 +56,7 @@ int main() {
 
     graph[0].push_back({1, 10});
     graph[0].push_back({3, 5});
-    
+    graph[1].push_back({2, 1});
     
     
     
