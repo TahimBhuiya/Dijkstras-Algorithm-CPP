@@ -7,3 +7,4 @@ This C++ program demonstrates **Dijkstra's Algorithm**, a fundamental method for
 Steps Dijkstra follows:
 
 1. Starts from a chosen source node.
+2. Uses a **priority queue** to select the closest unvisited node.
