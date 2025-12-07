@@ -5,3 +5,5 @@
 This C++ program demonstrates **Dijkstra's Algorithm**, a fundamental method for finding the **shortest path** from a single source node to all other nodes in a weighted graph.
 
 Steps Dijkstra follows:
+
+1. Starts from a chosen source node.
