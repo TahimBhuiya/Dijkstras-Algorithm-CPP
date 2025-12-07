@@ -8,3 +8,4 @@ Steps Dijkstra follows:
 
 1. Starts from a chosen source node.
 2. Uses a **priority queue** to select the closest unvisited node.
+3. Updates distances to all neighbors if a shorter path is found.
