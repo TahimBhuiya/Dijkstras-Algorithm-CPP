@@ -10,3 +10,7 @@ Steps Dijkstra follows:
 2. Uses a **priority queue** to select the closest unvisited node.
 3. Updates distances to all neighbors if a shorter path is found.
 4. Repeats until all nodes are visited.
+
+It prints the shortest distances from the source node to every other node in the graph.
+
+---
