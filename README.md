@@ -16,3 +16,5 @@ It prints the shortest distances from the source node to every other node in the
 ---
 
 ## 🔧 Features
+
+- **Priority Queue-Based Traversal** for efficiency
