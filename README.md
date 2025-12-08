@@ -19,3 +19,4 @@ It prints the shortest distances from the source node to every other node in the
 
 - **Priority Queue-Based Traversal** for efficiency
 - **Weighted Graph Support**
+- **Single-Source Shortest Paths**
