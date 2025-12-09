@@ -31,7 +31,7 @@ It prints the shortest distances from the source node to every other node in the
 
 ```
 0: {1,10}, {3,5}
-
+1: {2,1}, {3,2}
 
 
 
