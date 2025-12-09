@@ -26,3 +26,5 @@ It prints the shortest distances from the source node to every other node in the
 ---
 
 ## 📋 Example Run
+
+**Graph Structure (node: {neighbor, weight}):**
