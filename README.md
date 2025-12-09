@@ -30,7 +30,7 @@ It prints the shortest distances from the source node to every other node in the
 **Graph Structure (node: {neighbor, weight}):**
 
 ```
-
+0: {1,10}, {3,5}
 
 
 
