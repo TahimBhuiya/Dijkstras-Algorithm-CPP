@@ -36,3 +36,5 @@ It prints the shortest distances from the source node to every other node in the
 3: {1,3}, {2,9}, {4,2}
 4: {0,7}, {2,6}
 ```
+
+**Output (shortest distances from node 0):**
