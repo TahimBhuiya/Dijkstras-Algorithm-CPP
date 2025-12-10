@@ -46,3 +46,7 @@ It prints the shortest distances from the source node to every other node in the
 3: 5
 4: 7
 ```
+
+---
+
+## ⚙ How It Works
