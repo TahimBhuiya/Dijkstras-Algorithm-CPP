@@ -53,3 +53,4 @@ It prints the shortest distances from the source node to every other node in the
 
 1. **Initialize Distances**
    - Set all distances to infinity except the source (0).
+   - Push the source into a priority queue.
