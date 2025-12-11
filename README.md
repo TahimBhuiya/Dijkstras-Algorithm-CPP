@@ -57,3 +57,4 @@ It prints the shortest distances from the source node to every other node in the
    - Push the source into a priority queue.
 
 2. **Process Nodes Using Min-Heap**
+   - Extract node with smallest distance.
