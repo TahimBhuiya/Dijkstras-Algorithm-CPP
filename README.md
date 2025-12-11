@@ -59,3 +59,4 @@ It prints the shortest distances from the source node to every other node in the
 2. **Process Nodes Using Min-Heap**
    - Extract node with smallest distance.
    - Update distances for all its neighbors if a shorter path exists.
+   - Push updated neighbors back into the priority queue.
