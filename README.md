@@ -50,3 +50,5 @@ It prints the shortest distances from the source node to every other node in the
 ---
 
 ## ⚙ How It Works
+
+1. **Initialize Distances**
