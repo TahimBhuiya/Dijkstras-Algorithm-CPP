@@ -63,4 +63,7 @@ It prints the shortest distances from the source node to every other node in the
    - Push updated neighbors back into the priority queue.
 
 3. **Repeat Until Queue is Empty**
+
    - All reachable nodes have their shortest distance computed.
+
+4. **Print Results**
