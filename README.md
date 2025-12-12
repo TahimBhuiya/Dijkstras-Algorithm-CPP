@@ -72,3 +72,5 @@ It prints the shortest distances from the source node to every other node in the
 ---
 
 ## 🛠 How to Run
+
+### 1️⃣ Using a local C++ compiler
