@@ -77,6 +77,6 @@ It prints the shortest distances from the source node to every other node in the
 
 Save the code as `dijkstra.cpp` and then compile/run:
 
-```
+```bash
 
 ```
