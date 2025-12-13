@@ -79,5 +79,5 @@ Save the code as `dijkstra.cpp` and then compile/run:
 
 ```bash
 g++ dijkstra.cpp -o dijkstra
-
+./dijkstra
 ```
