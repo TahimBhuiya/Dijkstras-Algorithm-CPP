@@ -81,3 +81,5 @@ Save the code as `dijkstra.cpp` and then compile/run:
 g++ dijkstra.cpp -o dijkstra
 ./dijkstra
 ```
+
+### 2️⃣ Using an online C++ compiler
